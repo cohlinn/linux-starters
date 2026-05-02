@@ -19,7 +19,27 @@ AUTOMATION
 ```
 ---
 
-## Previously...
+## Getting repo updates...
+
+If you have made changes to your code:  
+1. go to the project repository root `~/linux-starters`
+1. Git stash your changes:  
+```
+git add .
+git stash
+```
+1. Get latest code changes:  
+```
+git pull origin main`
+```
+1. Move your changes back:  
+```
+git stash pop
+```
+
+And you're ready for the class!
+
+---
 
 
 ## Dependencies ...
