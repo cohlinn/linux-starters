@@ -20,12 +20,15 @@ Updated: 11 Oct 2026
 # What is Linux?
 
 Open sources and Linux
-[![Watch the video]([https://youtube.com](https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348))]([https://youtu.be](https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348))
-
+<a href="https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348" target="video">
 https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348
-https://www.youtube.com/watch?v=g4iKwWtVkw4
+</a>
+<p/>
+https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348
+<br/>
+ https://www.youtube.com/watch?v=g4iKwWtVkw4
 
-
+---
 # Why People think Linux is Easy & Difficult
 
 
