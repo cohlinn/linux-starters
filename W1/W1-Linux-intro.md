@@ -24,9 +24,8 @@ Open sources and Linux
 https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348
 </a>
 <p/>
-https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348
-<br/>
- https://www.youtube.com/watch?v=g4iKwWtVkw4
+* Opensource and Linux https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348
+* Get started with Linux https://www.youtube.com/watch?v=g4iKwWtVkw4
 
 ---
 # Why People think Linux is Easy & Difficult
