@@ -4,26 +4,24 @@
 
 # Intro Session 1
 
-__Updated: __  __7__  __ Aug 2026__
-
+Updated: 11 Oct 2026
+```
 # Agenda
 
-
-
-* <span style="color:#1f2328"> __What is Linux__ </span>
-* <span style="color:#1f2328"> __Why is Linux __ </span>  <span style="color:#1f2328"> __difficult__ </span>  <span style="color:#1f2328"> __ easy__ </span>
-* <span style="color:#1f2328"> __Distro Family Tree__ </span>
-* <span style="color:#1f2328"> __Stretch goals__ </span>
-  * <span style="color:#1f2328">Brave Browser</span>
-  * <span style="color:#1f2328">Watch full video link</span>
-  * <span style="color:#1f2328">What other reasons to change to Linux</span>
-
-
+* What is Linux
+* Why is Linux ~~difficult~~ easy
+* Distro Family Tree
+* Stretch goals
+  * Brave Browser
+  * Watch full video link
+  * What other reasons to change to Linux
+```
+---
 # What is Linux?
 
----
-
 Open sources and Linux
+[![Watch the video]([https://youtube.com](https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348))]([https://youtu.be](https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348))
+
 https://youtu.be/aoag03mSuXQ?si=miyDdApRynMMJ_fN&t=348
 https://www.youtube.com/watch?v=g4iKwWtVkw4
 
